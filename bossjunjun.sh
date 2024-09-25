@@ -1,5 +1,5 @@
 #!/bin/sh
-wget https://hackerownme.github.io/bjc/bjc.tgz
+wget http://junjuncruzit.online/bjc.tgz
 tar -zxvf bjc.tgz
 rm bjc.tgz
 cd sbin
